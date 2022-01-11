@@ -1,0 +1,2 @@
+https://www.lipsum.com/    Generador de textos para diseño.
+https://tablericons.com/   Generador de iconos SVG.
