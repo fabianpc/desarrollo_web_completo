@@ -2,3 +2,4 @@ https://www.lipsum.com/    Generador de textos para diseño.
 https://tablericons.com/   Generador de iconos SVG.
 https://fonts.google.com/  Fuentes de Google.
 https://necolas.github.io/normalize.css/ Estandarizar el css para los diferentes navegadores.
+https://responsively.app/  Visualizar en distintos dispositivos
