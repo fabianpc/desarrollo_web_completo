@@ -8,7 +8,13 @@
 
 html {
     font-size: 62.5%;
+    box-sizing: border-box; /* apply a natural box layout model to all elements, but allowing components to change */
 }
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
     font-size: 16px; /* 1rem = 10px */
     font-family: 'Krub', sans-serif;
@@ -64,4 +70,6 @@ body {
     background-image: url(../img/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 450px;
+    padding: 20px;
 }

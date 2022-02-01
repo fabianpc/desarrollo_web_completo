@@ -3,3 +3,5 @@ https://tablericons.com/   Generador de iconos SVG.
 https://fonts.google.com/  Fuentes de Google.
 https://necolas.github.io/normalize.css/ Estandarizar el css para los diferentes navegadores.
 https://responsively.app/  Visualizar en distintos dispositivos
+https://www.paulirish.com/2012/box-sizing-border-box-ftw/    Ajuste para box model
+ 
